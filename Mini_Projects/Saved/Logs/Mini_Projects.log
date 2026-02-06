@@ -1270,3 +1270,4 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2026.02.06-18.04.53:325][ 53]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
 [2026.02.06-18.04.53:326][ 53]LogContentBrowser: End creating deferred item NewFolder
 [2026.02.06-18.05.55:078][977]LogDerivedDataCache: C:/Users/Alexander/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:14.773 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 7624 files in 9537 folders with total size 606 MiB.
+[2026.02.06-18.07.25:381][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
