@@ -1261,3 +1261,12 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2026.02.06-18.03.51:365][  0]LogViewport: Scene viewport resized to 2032x1321, mode Windowed.
 [2026.02.06-18.03.51:512][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2026.02.06-18.03.51:555][  1]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.02.06-18.04.29:480][661]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2026.02.06-18.04.30:101][697]LogSlate: Took 0.008795 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.02.06-18.04.30:239][705]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.02.06-18.04.50:556][890]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.02.06-18.04.50:608][890]LogContentBrowser: Creating deferred item: NewFolder
+[2026.02.06-18.04.50:620][891]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.02.06-18.04.53:325][ 53]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2026.02.06-18.04.53:326][ 53]LogContentBrowser: End creating deferred item NewFolder
+[2026.02.06-18.05.55:078][977]LogDerivedDataCache: C:/Users/Alexander/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:14.773 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 7624 files in 9537 folders with total size 606 MiB.
